@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn iris-predictor-app:iris-predictor-app-csl
