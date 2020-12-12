@@ -20,7 +20,7 @@ flask run
 ```
 Acesse o endereço [localhost](http://loclahost:5000) para executar a aplicação.
 
-## Comtribuição
+## Contribuição
 Contribuiçoes serão bem-vindas via pull requests. Tenha certeza que os teste foram feitos
 
 ## License
